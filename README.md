@@ -8,10 +8,10 @@ objetivos
 
 Crear un sitio web organizado y facil de utilizar donde los propietarios puedan:
 
--ver el calendario de vacunacion de los animales por especio
--ver la solicitudes de cita: dueño, teléfono, correo, nombre y especie de la mascota, edad, fecha deseada, motivo de la consulta y si es primera visita.
--Un video corto sobre cómo bañar a un perro en casa.
--las instalaciones y el equipo de la clínica
+- ver el calendario de vacunacion de los animales por especio
+- ver la solicitudes de cita: dueño, teléfono, correo, nombre y especie de la mascota, edad, fecha deseada, motivo de la consulta y si es primera visita
+- Un video corto sobre cómo bañar a un perro en casa
+- las instalaciones y el equipo de la clínica
 
 
 Paginas del sitio
